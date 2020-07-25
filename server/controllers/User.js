@@ -16,7 +16,7 @@ import {
     sanitize,
     getBaseUrl
 } from '../helpers/user';
-//new
+
 const {
     User
 } = models
